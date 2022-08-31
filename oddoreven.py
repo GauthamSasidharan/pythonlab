@@ -1,4 +1,4 @@
-
+# Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 num = int (input ("Enter any number to test whether it is odd or even:"))
 
 if (num % 2) == 0:
