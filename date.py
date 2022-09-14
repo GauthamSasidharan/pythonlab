@@ -1,4 +1,3 @@
-
 import datetime
 print("Current date and time: " , datetime.datetime.now())
 print("Current year: ", datetime.date.today().strftime("%Y"))
