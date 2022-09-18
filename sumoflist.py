@@ -1,7 +1,4 @@
-# Write a Python program to sum all the items in a list.
-num = [1, 2, 3, 4, 5]
-sum = 0
-for x in num:
-    sum =sum+ x
-
-print("sum = ",sum) 
+# Write a Python program to calculate the sum of a list of numbers
+numlist = [2,4,2,5,7]
+numsum = sum(numlist)
+print('Sum of List: ',numsum)
